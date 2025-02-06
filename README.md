@@ -14,4 +14,4 @@
 <img src="https://github.com/Rleite32/PROJETO-RESPONSIVO-2/blob/main/image/Captura%20de%20tela%202025-02-06%20042220.png?raw=true">
 
 
-<img src="https://github.com/Rleite32/PROJETO-RESPONSIVO-2/blob/main/image/Captura%20de%20tela%202025-02-06%20042249.png?raw=true>
+<img src="https://github.com/Rleite32/PROJETO-RESPONSIVO-2/blob/main/image/Captura%20de%20tela%202025-02-06%20042249.png?raw=true">
